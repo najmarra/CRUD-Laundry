@@ -7,6 +7,10 @@ Pemrograman Web B pertemuan 10 membuat CRUD kedua yaitu Sistem Laundry.
 
 Tampilan:
 
+Login
+
+<img width="1916" height="907" alt="image" src="https://github.com/user-attachments/assets/976b7251-e350-42b7-aa38-b93dbcbb32eb" />
+
 Dashboard
 
 <img width="1919" height="914" alt="image" src="https://github.com/user-attachments/assets/b06df078-3443-4e37-87e1-2e8e7ae5642e" />
@@ -22,5 +26,9 @@ Data Keluar
 About Laundry
 
 <img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/00b8db92-8660-4798-90c6-cb4a6091f64b" />
+
+Database
+
+<img width="1919" height="892" alt="image" src="https://github.com/user-attachments/assets/2474f335-1a21-434c-a237-b89cad329028" />
 
 Source Database: https://github.com/rmalan/laundrycrafty/blob/master/crud_laundry.sql
